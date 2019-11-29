@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+charImg
+
+# MacOS
+*.DS_Store
+
+
+
+# File 
+picture/
+*.png
+*.jpg
+
+# Cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+
+
